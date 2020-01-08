@@ -9,9 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AcercaDe"
+        <activity android:name=".Manipulacion"></activity>
+        <activity
+            android:name=".AcercaDe"
             android:label="Acerca de ..."
-            android:theme="@android:style/Theme.Dialog"></activity>
+            android:theme="@android:style/Theme.Dialog" />
         <activity android:name=".MiSpinner" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".MainActivity" />
